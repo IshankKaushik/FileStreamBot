@@ -5,3 +5,5 @@ python-dotenv<=0.20.0
 motor
 aiofiles
 dnspython
+Flask
+requests
