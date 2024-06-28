@@ -1,12 +1,7 @@
-flask
-aiohttp
-pyrofork
-python-dotenv
-tgcrypto
-motor
-aiofiles
-dnspython
-requests
-jinja2
-git commit -m "Update requirements and add .env"
-git push origin main
+pyrogram==2.0.30
+tgcrypto==1.2.2
+motor==2.5.1
+pymongo[srv]==3.12.1
+dnspython==2.1.0
+uvloop==0.15.2
+aiohttp==3.7.4.post0
