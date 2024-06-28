@@ -3,5 +3,4 @@ tgcrypto==1.2.2
 motor==2.5.1
 pymongo[srv]==3.12.1
 dnspython==2.1.0
-uvloop==0.15.2
 aiohttp==3.7.4.post0
