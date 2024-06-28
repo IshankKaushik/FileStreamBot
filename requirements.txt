@@ -8,6 +8,6 @@ aiofiles
 dnspython
 requests
 jinja2
-git add .
+git-add .
 git commit -m "Update requirements and add .env"
 git push origin main
